@@ -1,0 +1,4 @@
+name: BlogScaffold
+dependencies:
+  browser: any
+  angular: any
